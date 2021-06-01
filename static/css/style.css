@@ -132,6 +132,7 @@ a.article-title:hover {
 .footer {
   text-align: center;
   color: red;
+  background-color: lightblue;
   font-size: 20%;
   position: fixed;
   bottom: 0;
