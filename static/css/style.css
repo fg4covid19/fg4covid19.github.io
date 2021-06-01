@@ -133,4 +133,6 @@ a.article-title:hover {
   text-align: center;
   color: #cbd5db;
   font-size: 20%;
+  position: fixed;
+  bottom: 0;
 }
