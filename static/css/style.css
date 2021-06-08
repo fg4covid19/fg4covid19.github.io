@@ -1,56 +1,55 @@
-
-      html {
+html {
       position: relative;
       min-height: 100%;}
 
-      body {
+body {
       /* Margin bottom by footer height */
       margin-bottom: 60px;}
 
-      .footer {
+.footer {
       text-align: center;
       width: 100%;
-      color: #ff0000;
+      color: #000000;
       background-color: #d3d3d3;
       font-size: 80%;
       position: absolute;
       margin: auto;
       bottom: 0px;}
 
-      .img {
+.img {
       display: block;
       margin-left: auto;
       margin-right: auto;}
 
-      main {
+main {
       /* Margin bottom by footer height */
       margin-bottom: 180px;
       padding-bottom: 20px;
       padding-top: 10px;
       background-color:#ADC1C6;}
 
-      .navbar {
+.navbar {
       padding: 10px;}
 
       .a_link {
       font-size: 120%;}
 
-      h2 {
-        text-align: center;
+h2 {
+    text-align: center;
       }
 
-      .h6_style {
+.h6_style {
         text-align: right;
         margin-right: 10px;
       }
 
-      .a_header { text-decoration: none; }
+.a_header { text-decoration: none; }
 
-      .site-header {
+.site-header {
         padding-bottom: 10px;
       }
 
-      .badge-dark
+.badge_style
       {
         color: #FF0000;
       }
