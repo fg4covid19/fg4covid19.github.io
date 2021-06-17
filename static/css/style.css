@@ -73,5 +73,12 @@ h2 {
       max-width: 400px;
       }
 
+      main {
+      /* Margin bottom by footer height */
+      margin-bottom: 180px;
+      padding-bottom: 0px;
+      padding-top: 10px;
+      background-color:#ADC1C6;}
+
 }
 
