@@ -53,3 +53,16 @@ h2 {
       {
         color: #FF0000;
       }
+
+
+@media only screen and (max-width: 768px) {
+  .footer {
+      text-align: center;
+      width: 100%;
+      color: #000000;
+      background-color: #d3d3d3;
+      font-size: 80%;
+      position: relative;
+      margin: auto;
+      bottom: 0px;}
+}
